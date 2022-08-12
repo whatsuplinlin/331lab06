@@ -1,4 +1,4 @@
-name: Deploy to Aws Docker on mege
+name: Deploy to Aws Docker on merge
 'on':
   push:
     branches:
